@@ -1,1 +1,25 @@
-Expresss is node frame work node app easyly
+Expresss is nodeJs frame work node app easyly
+
+
+npm i nodemon -D to run automaticaly
+
+database = mongoDatabase >  if you want to run  it with npm use mongoose
+
+
+how to save info in database
+ create modal for 
+modal
+
+
+using a model to save data in MongoDB
+
+if you want to save data in
+ database you have to use data model
+
+
+ how to Fetch data from mongo MongoDB
+
+
+
+
+ 
